@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		370BEE1D2BC6140900370A45 /* Beep.mov in Resources */ = {isa = PBXBuildFile; fileRef = 370BEE1C2BC6140900370A45 /* Beep.mov */; };
 		37DDED652BC5638800950D8A /* TimerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37DDED642BC5638800950D8A /* TimerApp.swift */; };
 		37DDED672BC5638800950D8A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37DDED662BC5638800950D8A /* ContentView.swift */; };
 		37DDED692BC5638A00950D8A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37DDED682BC5638A00950D8A /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		370BEE1C2BC6140900370A45 /* Beep.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Beep.mov; sourceTree = "<group>"; };
 		37DDED612BC5638800950D8A /* Timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Timer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37DDED642BC5638800950D8A /* TimerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerApp.swift; sourceTree = "<group>"; };
 		37DDED662BC5638800950D8A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				37DDED642BC5638800950D8A /* TimerApp.swift */,
 				37DDED662BC5638800950D8A /* ContentView.swift */,
 				37DDED682BC5638A00950D8A /* Assets.xcassets */,
+				370BEE1C2BC6140900370A45 /* Beep.mov */,
 				37DDED6D2BC5638A00950D8A /* Timer.entitlements */,
 				37DDED6A2BC5638A00950D8A /* Preview Content */,
 			);
@@ -128,6 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				37DDED6C2BC5638A00950D8A /* Preview Assets.xcassets in Resources */,
+				370BEE1D2BC6140900370A45 /* Beep.mov in Resources */,
 				37DDED692BC5638A00950D8A /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -275,6 +279,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Timer/Preview Content\"";
+				DEVELOPMENT_TEAM = 59FP2PXRXK;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
@@ -300,6 +305,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Timer/Preview Content\"";
+				DEVELOPMENT_TEAM = 59FP2PXRXK;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
