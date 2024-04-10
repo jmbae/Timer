@@ -70,6 +70,8 @@ struct ContentView: View {
                             timeRemaining = 900
                         case 900..<1200:
                             timeRemaining = 1200
+                        case 1200..<1500:
+                            timeRemaining = 1500
                         case 1500..<1800:
                             timeRemaining = 1800
                         default:
